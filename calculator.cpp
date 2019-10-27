@@ -11,6 +11,7 @@ int Calculator::Add (double a, double b)
 	return a + b + 0.5;
 >>>>>>> 4ad40a3... fix truncation error
 >>>>>>> improve calculation accuracy
+#Put In
 }
 
 int Calculator::Sub (double a, double b)

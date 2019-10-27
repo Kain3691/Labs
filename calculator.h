@@ -8,6 +8,7 @@ class Calculator
 		int Add (double, double);
 		int Sub (double, double);
 =======
+#wildways
     public:
 <<<<<<< HEAD
         int Add (double, double);
