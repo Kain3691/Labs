@@ -13,7 +13,7 @@ int Calculator::Add (double a, double b)
 >>>>>>> improve calculation accuracy
 #Put In
 #lab3 work
-#done
+#done!
 }
 
 int Calculator::Sub (double a, double b)
