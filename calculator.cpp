@@ -12,6 +12,8 @@ int Calculator::Add (double a, double b)
 >>>>>>> 4ad40a3... fix truncation error
 >>>>>>> improve calculation accuracy
 #Put In
+#lab3 work
+#done
 }
 
 int Calculator::Sub (double a, double b)

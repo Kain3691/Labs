@@ -8,7 +8,8 @@ class Calculator
 		int Add (double, double);
 		int Sub (double, double);
 =======
-#wildways
+# wildways
+# 5 year
     public:
 <<<<<<< HEAD
         int Add (double, double);
