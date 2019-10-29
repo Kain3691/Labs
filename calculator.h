@@ -9,7 +9,7 @@ class Calculator
 		int Sub (double, double);
 =======
 # wildways
-# 5 year
+# 5 yeas wild
     public:
 <<<<<<< HEAD
         int Add (double, double);
